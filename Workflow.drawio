@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.1">
   <diagram name="Page-1" id="KFySeo-iHbhWyOIlwdL9">
-    <mxGraphModel dx="1281" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1097" dy="1709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,28 +40,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qXGo0zyAmWNF7QHiX-dI-16" value="Client" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qXGo0zyAmWNF7QHiX-dI-17" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="qXGo0zyAmWNF7QHiX-dI-18" target="qXGo0zyAmWNF7QHiX-dI-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qXGo0zyAmWNF7QHiX-dI-18" value="Domain" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qXGo0zyAmWNF7QHiX-dI-19" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="qXGo0zyAmWNF7QHiX-dI-20" target="qXGo0zyAmWNF7QHiX-dI-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qXGo0zyAmWNF7QHiX-dI-20" value="VPS IP" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qXGo0zyAmWNF7QHiX-dI-21" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="qXGo0zyAmWNF7QHiX-dI-22" target="qXGo0zyAmWNF7QHiX-dI-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qXGo0zyAmWNF7QHiX-dI-22" value="Nginx" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qXGo0zyAmWNF7QHiX-dI-23" value="Source code" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="1120" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qXGo0zyAmWNF7QHiX-dI-24" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="qXGo0zyAmWNF7QHiX-dI-27" target="qXGo0zyAmWNF7QHiX-dI-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -262,6 +262,11 @@
         <mxCell id="qXGo0zyAmWNF7QHiX-dI-80" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="qXGo0zyAmWNF7QHiX-dI-81" target="qXGo0zyAmWNF7QHiX-dI-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="qXGo0zyAmWNF7QHiX-dI-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3880" y="1030.5384615384614" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qXGo0zyAmWNF7QHiX-dI-81" value="Tạo symlinks " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2990" y="990" width="180" height="80" as="geometry" />
         </mxCell>
@@ -373,7 +378,13 @@
         <mxCell id="qXGo0zyAmWNF7QHiX-dI-117" value="service nginx reload" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2990" y="40" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qXGo0zyAmWNF7QHiX-dI-118" value="Cài mariadb" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-6" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="qXGo0zyAmWNF7QHiX-dI-118" target="Udrxpl8e12mHpJj6cbQr-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-14" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="qXGo0zyAmWNF7QHiX-dI-118" target="Udrxpl8e12mHpJj6cbQr-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qXGo0zyAmWNF7QHiX-dI-118" value="Cài mariadb/mysql&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3290" y="640" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qXGo0zyAmWNF7QHiX-dI-119" value="sudo rsync -avh --delete .../dist/ /var/www/your_domain/html/" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
@@ -381,6 +392,217 @@
         </mxCell>
         <mxCell id="qXGo0zyAmWNF7QHiX-dI-76" value="Cấu hình sites-available&lt;br&gt;&amp;nbsp;(https://github.com/MikMiik/Note/blob/main/fe-site-available-config)" style="rounded=1;fillColor=default;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2690" y="1390" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-8" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Udrxpl8e12mHpJj6cbQr-5" target="Udrxpl8e12mHpJj6cbQr-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-5" value="&lt;br&gt;sudo apt install mariadb-server&lt;br&gt;sudo mysql_secure_installation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3290" y="440" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Udrxpl8e12mHpJj6cbQr-7" target="Udrxpl8e12mHpJj6cbQr-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-7" value="sudo mariadb" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3290" y="240" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-12" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Udrxpl8e12mHpJj6cbQr-9" target="Udrxpl8e12mHpJj6cbQr-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-9" value="GRANT ALL ON *.* TO &#39;admin&#39;@&#39;localhost&#39; IDENTIFIED BY &#39;password&#39; WITH GRANT OPTION;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3290" y="40" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-11" value="FLUSH PRIVILEGES;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3290" y="-160" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-16" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Udrxpl8e12mHpJj6cbQr-13" target="Udrxpl8e12mHpJj6cbQr-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-25" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="Udrxpl8e12mHpJj6cbQr-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3880" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-13" value="Cài https" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3590" y="640" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-18" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Udrxpl8e12mHpJj6cbQr-15" target="Udrxpl8e12mHpJj6cbQr-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-19" value="Obtain an SSL Certificate" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Udrxpl8e12mHpJj6cbQr-18">
+          <mxGeometry x="-0.2061" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-15" value="sudo apt install certbot python3-certbot-nginx" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3590" y="440" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-17" value="sudo certbot --nginx -d example.com -d www.example.com" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3590" y="240" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-26" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;strokeColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3880" y="1030" as="sourcePoint" />
+            <mxPoint x="3880" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Udrxpl8e12mHpJj6cbQr-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3880" y="850" as="sourcePoint" />
+            <mxPoint x="3930" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-34" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Udrxpl8e12mHpJj6cbQr-28" target="Udrxpl8e12mHpJj6cbQr-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-68" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Udrxpl8e12mHpJj6cbQr-28" target="Udrxpl8e12mHpJj6cbQr-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-28" value="Websocket - Soketi&lt;br&gt;(nên tạo user mới và dùng bản node riêng ở user đó để phù hợp với Soketi)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4000" y="810" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-29" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="4440" y="675" width="270" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-49" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Udrxpl8e12mHpJj6cbQr-30" target="Udrxpl8e12mHpJj6cbQr-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-50" value="vào path config.json của soketi, thường ở ~/config.json" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Udrxpl8e12mHpJj6cbQr-49">
+          <mxGeometry x="0.2333" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-30" value="Cấu hình config,json" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4260" y="810" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-31" value="BE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4664" y="640" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-32" value="FE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4664" y="1020" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-36" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Udrxpl8e12mHpJj6cbQr-33" target="Udrxpl8e12mHpJj6cbQr-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-33" value="sudo apt install -y git python3 gcc build-essential" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4000" y="1010" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-38" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Udrxpl8e12mHpJj6cbQr-35" target="Udrxpl8e12mHpJj6cbQr-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-39" value="Cài nvm (node version management) nếu version hiện tại&amp;nbsp;&lt;br&gt;không dùng được với soketi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Udrxpl8e12mHpJj6cbQr-38">
+          <mxGeometry x="-0.3542" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-35" value="sudo npm install -g @soketi/soketi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4000" y="1210" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-41" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Udrxpl8e12mHpJj6cbQr-37" target="Udrxpl8e12mHpJj6cbQr-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-37" value="curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4000" y="1410" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-43" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Udrxpl8e12mHpJj6cbQr-40" target="Udrxpl8e12mHpJj6cbQr-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-40" value="Chạy dòng lệnh export được yêu cầu&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4000" y="1610" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-45" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Udrxpl8e12mHpJj6cbQr-42" target="Udrxpl8e12mHpJj6cbQr-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-42" value="nvm install 18&lt;br&gt;(node -v để check)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4000" y="1810" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-44" value="soketi start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4000" y="2010" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-52" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Udrxpl8e12mHpJj6cbQr-48" target="Udrxpl8e12mHpJj6cbQr-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-48" value="Config (https://github.com/MikMiik/Note/blob/main/soketi-server-config.config)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4260" y="1020" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-54" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Udrxpl8e12mHpJj6cbQr-51" target="Udrxpl8e12mHpJj6cbQr-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-51" value="Chỉnh cổng 6001 thông dụng hơn, nếu cần websocket cho nhiều app thì thêm object vào config" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4260" y="1210" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-69" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Udrxpl8e12mHpJj6cbQr-53" target="Udrxpl8e12mHpJj6cbQr-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-53" value="Xóa 2 dòng trong webhooks, lưu file config và thoát" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4260" y="1410" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-55" value="pm2 start soketi -- start --config=/home/(username)/config.json" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4260" y="1610" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-59" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Udrxpl8e12mHpJj6cbQr-57" target="Udrxpl8e12mHpJj6cbQr-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-57" value="Tạo utils/socketClient.js" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5010" y="1200" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-58" value="Config&amp;nbsp;&lt;br&gt;(https://github.com/MikMiik/Note/blob/main/soketi-client.config)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5010" y="1400" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-63" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Udrxpl8e12mHpJj6cbQr-61" target="Udrxpl8e12mHpJj6cbQr-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-61" value="npm i pusher-js" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4710" y="980" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-64" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Udrxpl8e12mHpJj6cbQr-62" target="Udrxpl8e12mHpJj6cbQr-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-66" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Udrxpl8e12mHpJj6cbQr-62" target="Udrxpl8e12mHpJj6cbQr-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-67" value="dùng trong useEffect của component" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Udrxpl8e12mHpJj6cbQr-66">
+          <mxGeometry x="-0.0333" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-62" value="Tạo file cấu hình soketi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5010" y="980" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-80" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Udrxpl8e12mHpJj6cbQr-65" target="Udrxpl8e12mHpJj6cbQr-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-65" value="const channel = socketClient.subscribe(&#39;my-channel&#39;)&lt;br&gt;return channel.unsubscribe()&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5470" y="980" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-72" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Udrxpl8e12mHpJj6cbQr-70" target="Udrxpl8e12mHpJj6cbQr-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-70" value="npm i pusher" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4710" y="640" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-74" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Udrxpl8e12mHpJj6cbQr-71" target="Udrxpl8e12mHpJj6cbQr-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-78" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Udrxpl8e12mHpJj6cbQr-71" target="Udrxpl8e12mHpJj6cbQr-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-71" value="Tạo file cấu hình soketi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5010" y="640" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-76" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Udrxpl8e12mHpJj6cbQr-73" target="Udrxpl8e12mHpJj6cbQr-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-73" value="Tạo utils/pusher.js" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5010" y="440" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-75" value="Config (https://github.com/MikMiik/Note/blob/main/soketi-backend.config)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5010" y="240" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-77" value="pusher.trigger(&quot;channel&quot;, &quot;event&quot;, &quot;data&quot;)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5310" y="640" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Udrxpl8e12mHpJj6cbQr-79" value="bind()&lt;br&gt;unbind()&lt;br&gt;nếu cần" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5470" y="1180" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
